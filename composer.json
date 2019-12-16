@@ -1,6 +1,12 @@
 {
     "require": {
-        "workerman/workerman": "^3.5"
+        "workerman/workerman": "^3.5",
+        "illuminate/support": "^5.8",
+        "monolog/monolog": "^1.24",
+        "predis/predis": "^1.1",
+        "ext-json": "^1.5",
+        "kwn/php-rdkafka-stubs": "^1.3",
+        "vlucas/phpdotenv": "^3.4"
     },
     "autoload": {
         "classmap": [
