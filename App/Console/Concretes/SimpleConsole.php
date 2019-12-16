@@ -6,10 +6,10 @@
  * Time: 13:57
  */
 
-namespace App\Consoles\Concretes;
+namespace App\Console\Concretes;
 
 
-use App\Consoles\Contracts\BaseConsole;
+use App\Console\Contracts\BaseConsole;
 
 class SimpleConsole extends BaseConsole
 {

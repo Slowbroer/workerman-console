@@ -6,7 +6,7 @@
  * Time: 13:59
  */
 
-namespace App\Consoles\Exceptions;
+namespace App\Console\Exceptions;
 
 
 class WorkerNotExistsException extends \Exception

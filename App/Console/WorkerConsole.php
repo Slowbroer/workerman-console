@@ -6,11 +6,11 @@
  * Time: 13:57
  */
 
-namespace App\Consoles;
+namespace App\Console;
 
 
-use App\Consoles\Contracts\BaseConsole;
-use App\Consoles\Exceptions\WorkerNotExistsException;
+use App\Console\Contracts\BaseConsole;
+use App\Console\Exceptions\WorkerNotExistsException;
 
 class WorkerConsole
 {
