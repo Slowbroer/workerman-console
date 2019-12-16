@@ -17,7 +17,7 @@
             "Protocols\\": "Protocols/"
         },
         "files": [
-            "App/Helpers/public_function.php"
+            "App/Helper/public_function.php"
         ]
     }
 }
